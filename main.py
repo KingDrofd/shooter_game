@@ -28,7 +28,7 @@ score = 0 #ships destroyed
 goal = 20 #how many ships need to be shot down to win
 lost = 0 #ships missed
 max_lost = 10 #lose if you miss that many ships
-life = 3  #life points
+life = 6  #life points
 
 
 #parent class for other sprites
